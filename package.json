@@ -1,7 +1,7 @@
 {
-  "name": "TodoApp",
+  "name": "GithubViewer",
   "version": "1.0.0",
-  "description": "Simple todo-app",
+  "description": "Simple github-viewer-app on React",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --progress --inline --hot",
@@ -11,8 +11,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/rainman161/test.git"
+    "type": "git"
   },
   "keywords": [
     "test",
@@ -20,10 +19,6 @@
   ],
   "author": "Vladilen",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/rainman161/test/issues"
-  },
-  "homepage": "https://github.com/rainman161/test#readme",
   "devDependencies": {
     "babel-core": "^6.13.2",
     "babel-eslint": "^6.1.2",
